@@ -1,0 +1,1 @@
+bulletDelay = 0;
